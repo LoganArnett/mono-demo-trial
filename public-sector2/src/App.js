@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          Public Sector 2 AHHHH
+          Public Sector 2 AHHH
         </h1>
         <a
           className="App-link"
